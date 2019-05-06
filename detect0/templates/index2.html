@@ -1,0 +1,66 @@
+
+<!-- <h1>Products are</h1>
+<h2>{{flower_path2}}</h2>
+<ul>
+    {% for product in res %}
+
+    <li> {{res.product}} </li>
+
+    {% endfor %}
+
+</ul> -->
+
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>DataHouse</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Patua+One|Roboto:300,400,400i,700" rel="stylesheet">
+  
+  <link rel="stylesheet" type="text/css" href="{% static 'style.css' %} ">
+  
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="{% static 'app.js' %}"></script>
+	<meta http-equiv="cache-control" content="no-cache" />
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div class="well">
+    <div class="row">
+      <div class="col-md-12">
+          <h1 class="head text-center">Data House</h1>
+        </div>
+      </div>
+    
+      <div class="row">
+        <div class="col-md-6">
+          <div class="well"  id="img-well">
+            <img class="img-rounded test-image center-block" src= {{test_file}} width="500px" alt="Not available"></img>
+            <p class="text-center" id="image-description">Detected plant : {{plant_name}}</p>
+          </br>Leaf : 
+            <img class="img-rounded test-image center-block" src = {{leaf_path2}} width="500px" alt="Not available"></img>
+          </br>Stem : 
+            <img class="img-rounded test-image center-block" src = {{stem_path2}} width="500px" alt="Not available"></img>
+          </br>Flower : 
+            <img class="img-rounded test-image center-block" src = {{flower_path2}} width="500px" alt="Not available"></img>
+          </br>Entire : 
+            <img class="img-rounded test-image center-block" src = {{entire_path2}} width="500px" alt="Not available"></img>
+          </div>       
+        </div>
+        <div class="col-md-6">
+
+		    <br/>
+		    <br/>
+          <h3 id="content-header"><strong>Thanks for uploading the data.</strong></h3>
+         
+      </div>
+      </div>
+    </div>
+  </div>
+
+</body>  
+</html>
