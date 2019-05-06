@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3259.jpg</FileName>
+  <IndividualPlantId>1750</IndividualPlantId>
+  <Date>25/04/11</Date>
+  <Locality>France - Marsillargues</Locality>
+  <GPSLocality>
+    <Longitude>4.178997</Longitude>
+    <Latitude>43.665346</Latitude>
+  </GPSLocality>
+  <Author>Cecile G</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Punica granatum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Myrtales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Lythraceae J. St.-Hil.</Family>
+    <Genus>Punica L.</Genus>
+    <Species>Punica granatum L.</Species>
+  </Taxon>
+  <VernacularNames>Pomegranate</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>864</IndividualPlantId2012>
+  <ImageID2012>2081.jpg</ImageID2012>
+</Image>
+

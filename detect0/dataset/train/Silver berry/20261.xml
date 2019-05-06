@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>20261.jpg</FileName>
+  <IndividualPlantId>249</IndividualPlantId>
+  <Date>15/10/12</Date>
+  <Locality>France - Fleury</Locality>
+  <GPSLocality>
+    <Longitude>-0.331316</Longitude>
+    <Latitude>49.201553</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Elaeagnus angustifolia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Elaeagnaceae Juss.</Family>
+    <Genus>Elaeagnus L.</Genus>
+    <Species>Elaeagnus angustifolia L.</Species>
+  </Taxon>
+  <VernacularNames>Silver berry</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>15181.jpg</FileName>
+  <IndividualPlantId>3310</IndividualPlantId>
+  <Date>17/10/09</Date>
+  <Locality>France - Gruissan</Locality>
+  <GPSLocality>
+    <Longitude>3.086181</Longitude>
+    <Latitude>43.107052</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Elaeagnus angustifolia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Rosales Bercht. &amp; J. Presl</Order>
+    <Family>Elaeagnaceae Juss.</Family>
+    <Genus>Elaeagnus L.</Genus>
+    <Species>Elaeagnus angustifolia L.</Species>
+  </Taxon>
+  <VernacularNames>Silver berry</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

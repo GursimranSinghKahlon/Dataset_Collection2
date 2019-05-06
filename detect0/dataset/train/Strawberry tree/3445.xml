@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3445.jpg</FileName>
+  <IndividualPlantId>3873</IndividualPlantId>
+  <Date>11/06/07</Date>
+  <Locality>France - Marignane</Locality>
+  <GPSLocality>
+    <Longitude>5.218332</Longitude>
+    <Latitude>43.421274</Latitude>
+  </GPSLocality>
+  <Author>Michel Pourchet</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Fruit</Content>
+  <ClassId>Arbutus unedo</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Ericales Bercht. &amp; J. Presl</Order>
+    <Family>Ericaceae Juss.</Family>
+    <Genus>Arbutus L.</Genus>
+    <Species>Arbutus unedo L.</Species>
+  </Taxon>
+  <VernacularNames>Strawberry tree</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

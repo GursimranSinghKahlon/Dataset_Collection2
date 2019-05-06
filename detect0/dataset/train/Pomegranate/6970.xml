@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>6970.jpg</FileName>
+  <IndividualPlantId>990</IndividualPlantId>
+  <Date>13/06/10</Date>
+  <Locality>France - Toulon</Locality>
+  <GPSLocality>
+    <Longitude>5.931111</Longitude>
+    <Latitude>43.125160</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Punica granatum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Myrtales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Lythraceae J. St.-Hil.</Family>
+    <Genus>Punica L.</Genus>
+    <Species>Punica granatum L.</Species>
+  </Taxon>
+  <VernacularNames>Pomegranate</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>758</IndividualPlantId2012>
+  <ImageID2012>9539.jpg</ImageID2012>
+</Image>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>1179.jpg</FileName>
+  <IndividualPlantId>242</IndividualPlantId>
+  <Date>17/05/12</Date>
+  <Locality>France - Chaumont-Sur-Loire</Locality>
+  <GPSLocality>
+    <Longitude>1.182876</Longitude>
+    <Latitude>47.480012</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>NaturalBackground</Type>
+  <Content>Stem</Content>
+  <ClassId>Punica granatum</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Rosanae Takht.</Superorder>
+    <Order>Myrtales Juss. ex Bercht. &amp; J. Presl</Order>
+    <Family>Lythraceae J. St.-Hil.</Family>
+    <Genus>Punica L.</Genus>
+    <Species>Punica granatum L.</Species>
+  </Taxon>
+  <VernacularNames>Pomegranate</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+
