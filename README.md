@@ -12,6 +12,10 @@ Links:
   http://127.0.0.1:8000/detect0/update_db : Update django sqllite3 database
   
   http://127.0.0.1:8000/detect0/new : Upload new data (Update option for download from app)
+  
+  
+  
+![alt text](https://github.com/GursimranSinghKahlon/Dataset_Collection2/blob/master/detect0/Screenshots/upload.png)
 
 Note: Dataset have been reduced for facilitation.
 
